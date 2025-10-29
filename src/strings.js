@@ -562,6 +562,7 @@ export const grampsStrings = [
   'Statistics',
   'Status',
   'Stepchild',
+  'Stillbirth',
   'Stop',
   'Street',
   'Style name.',
